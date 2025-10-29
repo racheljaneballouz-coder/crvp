@@ -1,4 +1,4 @@
-# crvp, this is a one day sample out of 12 days
+# CRVP: This file shows one of 12 daily samples; the same workflow is run for each day. Code is split by day for easier execution.
 crvp using python
 !pip install ortools
 from ortools.constraint_solver import pywrapcp, routing_enums_pb2
