@@ -1,4 +1,4 @@
-# crvp
+# crvp, this is a one day sample out of 12 days
 crvp using python
 !pip install ortools
 from ortools.constraint_solver import pywrapcp, routing_enums_pb2
